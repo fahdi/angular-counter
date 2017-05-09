@@ -40,15 +40,11 @@ export class CounterComponent implements OnInit {
   @Input() 
   count: number = 0;  
 
-
-  
   @Output() 
   change: EventEmitter<number> = new EventEmitter<number>();
 
   ngOnInit() {
   }
-
-
 
   increment() {
     this.count++;
