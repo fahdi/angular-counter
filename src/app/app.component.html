@@ -1,1 +1,2 @@
-<app-counter [count]="initialCount"></app-counter>
+Parent: {{ myCount }}
+<app-counter [count]="myCount" (change)="countChange($event)"></app-counter>

@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  initialCount: number = 99;
+  myCount: number = 99;
+  countChange(event) {
+  	this.myCount = event;
+  }
 }
