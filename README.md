@@ -1,5 +1,7 @@
 # CounterApp
 
+Implementation of "Bootstrapping your first Angular 2+ app" at  https://toddmotto.com/bootstrap-angular-2-hello-world
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
 ## Development server
