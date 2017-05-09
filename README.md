@@ -4,7 +4,7 @@ Implementation of "Bootstrapping your first Angular 2+ app" at  https://toddmott
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
-#Live version 
+## Live version 
 
 Find at https://fahdi.github.io/angular-counter/ 
 
